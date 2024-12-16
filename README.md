@@ -2,7 +2,7 @@
 Note :
 1. Machine_learning.ipynb is main file for modul 3
 2. pijar_rf_model.pkl is the ML model
-3. app.py is for streamlit deployment
+3. app.py inside folder 'app' is for streamlit deployment
 4. EDA.ipynb is for basic EDA
 
 Here's also link for presentation and my explanation video
